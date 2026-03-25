@@ -42,7 +42,7 @@ Traditional resume screening is often manual, inconsistent, and overly dependent
 Skillora is built around a simple product flow:
 
 1. **Upload a resume**
-2. **Add a target job description**
+2. **Add a target job link/description**
 3. **Run the analysis**
 4. **Review fit, matched skills, and missing skills**
 
