@@ -149,7 +149,7 @@ pip install -r requirements.txt
 ```
 2. Run the application
 ```bash
-streamlit run skillora.py 
+streamlit run app.py 
 ```
 
 
