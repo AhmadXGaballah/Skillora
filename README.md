@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/1916a7d7-7276-4041-982e-6e0c6004025b" alt="Skillora Logo" width="300" />
+<img src="https://github.com/user-attachments/assets/8e34f404-8d92-45c2-bbc5-6ec45bf7b1f2" alt="Skillora Logo" width="300" />
 
 # Skillora
 
@@ -151,6 +152,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py 
 ```
+
 
 
 
